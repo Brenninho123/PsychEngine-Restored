@@ -1,8 +1,7 @@
 {
 	"songs": [
-		["Cocoa", "parents", [160, 209, 255]],
-		["Eggnog", "parents", [160, 209, 255]],
-		["Winter Horrorland", "monster", [160, 209, 255]]
+		["Cocoa Erect", "parents", [160, 209, 255]],
+		["Eggnog Erect", "parents", [160, 209, 255]]
 	],
 
 	"weekCharacters": [
@@ -11,12 +10,12 @@
 		"gf"
 	],
 	"weekBackground": "christmas",
-
+	"difficulties": "Erect,Nightmare",
 	"storyName": "RED SNOW",
 	"weekBefore": "week4",
 	"weekName": "Week 5",
 	"startUnlocked": true,
 
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"hideFreeplay": false
 }
